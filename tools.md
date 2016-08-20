@@ -1,1 +1,1 @@
-- [SiteLinks.info](www.sitelinks.info), e.g. [Kaiming He Resnet](http://www.sitelinks.info/search/kaiming-he-resnet/)
+- [SiteLinks.info](www.sitelinks.info), e.g. [Kaiming He Resnet](http://www.sitelinks.info/search/kaiming-he-resnet/) ([via](https://twitter.com/permutans/status/766578440019513344))
