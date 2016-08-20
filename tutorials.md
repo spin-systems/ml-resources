@@ -1,0 +1,3 @@
+- [ ] TensorFlow, _The Gentlest Introduction_ [part 1](http://www.kdnuggets.com/2016/08/gentlest-introduction-tensorflow-part-1.html), [2](http://www.kdnuggets.com/2016/08/gentlest-introduction-tensorflow-part-2.html)
+- [ ] [Building intelligent applications with deep learning and TensorFlow](https://www.oreilly.com/ideas/building-intelligent-applications-with-deep-learning-and-tensorflow?twitter=@bigdata)
+- [ ] [Visualizing Neural Networks](http://mikesollami.squarespace.com/code/2016/7/13/visualizing-neural-networks)
