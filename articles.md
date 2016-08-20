@@ -1,1 +1,2 @@
 - [ ] Model evaluation, model selection, and algorithm selection in machine learning - [Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html), [II](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html)
+- [ ] [Quora Q&A](https://www.quora.com/session/Fran%C3%A7ois-Chollet/1) with François Chollet (_Deep learning researcher at Google, author of Keras_)
