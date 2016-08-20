@@ -1,0 +1,1 @@
+- [ ] Model evaluation, model selection, and algorithm selection in machine learning - [Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html), [II](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part2.html)
